@@ -3,7 +3,7 @@
     "name": "startbootstrap-stylish-portfolio",
     "version": "5.0.6",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch && node server.js"
+        "start": "node_modules/.bin/gulp watch || node server.js"
     },
     "description": "A stylish portfolio HTML template built with Bootstrap",
     "keywords": [
